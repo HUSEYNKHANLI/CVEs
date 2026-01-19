@@ -6,6 +6,7 @@ This repository contains my security research and published Common Vulnerabiliti
 
 | CVE ID | Vulnerability | Severity | Product | CVSS |
 |--------|--------------|----------|---------|------|
+| [CVE-2026-23626](./CVE-2026-23626/) | Server-Side Template Injection (SSTI) | 🟡 Medium | Kimai ≤2.45.0 | 6.8 |
 | [CVE-2026-21881](./CVE-2026-21881/) | Reverse Proxy Authentication Bypass | 🔴 Critical | Kanboard ≤1.2.48 | 9.1 |
 | [CVE-2026-21880](./CVE-2026-21880/) | LDAP Injection | 🟡 Medium | Kanboard ≤1.2.48 | 5.3 |
 | [CVE-2026-21879](./CVE-2026-21879/) | Open Redirect | 🟡 Medium | Kanboard ≤1.2.48 | 4.7 |
@@ -29,3 +30,5 @@ The author is not responsible for any misuse or damage caused by this material. 
 
 - [Kanboard Official Repository](https://github.com/kanboard/kanboard)
 - [Kanboard Security Advisories](https://github.com/kanboard/kanboard/security/advisories)
+- [Kimai Official Repository](https://github.com/kimai/kimai)
+- [Kimai Security Advisories](https://github.com/kimai/kimai/security/advisories)
